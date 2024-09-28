@@ -30,8 +30,8 @@ class _PickCropImageState extends State<PickCropImage> {
     'اورنج': '*102*',
   };
   final Map<String, String> cardOption = {
-    'دقائق': '1*',
-    'ميكسات': '2*',
+    'ميكسات': '1*',
+    'دقائق': '2*',
     'انترنت': '3*',
   };
 
